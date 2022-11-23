@@ -39,7 +39,7 @@ resources: {}
   #  memory: 128Mi
 
 nodeSelector: {
-          ENV: qa-amd-int     
+          ENV: qa-amd    
        }
 
 tolerations: []
